@@ -1,7 +1,7 @@
 # TwiPPLY
 
 ## サイト概要
-Twitterの周辺アプリや関連サービスをまとめたサイト
+Twitterのクライアントアプリだけをまとめたレビューサイト
 
 ### サイトテーマ
 Twitterをもっとエンジョイしたい方のためのまとめサイト
@@ -9,6 +9,7 @@ Twitterをもっとエンジョイしたい方のためのまとめサイト
 ### テーマを選んだ理由
 数年前までは隆盛を極めていたTwitterクライアントアプリですが、ユーザーストリーム廃止後、新しい情報が得にくくなっているので
 現在利用されているアプリケーションやサービスの情報が得られるサイトがあったらいいなと思いました。
+クライアントアプリそのものではなくアプリのレビューサイトとして記事が羅列してあるようなイメージです。
 
 ### ターゲットユーザ
 Twitterのミドル/ヘビーユーザー層
@@ -19,6 +20,6 @@ Twitterの利用時
 ## 設計書
 
 ### 機能一覧
-<https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
-
+チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1F6C4_p7WvNp8lChVEALwOhIMVCdEvGH8HIeGAmdm2oI/edit#gid=0
 
